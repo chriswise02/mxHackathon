@@ -78,7 +78,7 @@ body {
 }
 
 .highlight {
-    background: linear-gradient(135deg, #ff6b6b, #ff8e53);
+    background: linear-gradient(135deg, #F54323, #FDA294);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
@@ -144,7 +144,7 @@ body {
 }
 
 .btn-primary {
-    background: linear-gradient(135deg, #ff6b6b, #ff8e53);
+    background: linear-gradient(135deg, #F54323, #FDA294);
     color: white;
     box-shadow: 0 8px 32px rgba(255, 107, 107, 0.3);
 }
